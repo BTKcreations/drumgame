@@ -16,6 +16,20 @@ footer {
   font-family: sans-serif;
 }
 
+footer{
+  text-align: center;
+  color: antiquewhite;
+  padding: 50px;
+  font-size: 1.7rem;
+  letter-spacing: 1.2rem;
+}
+footer span{
+  display: block;
+  padding: 20px;
+  color: white;
+  text-shadow: -2px 2px 5px black;
+}
+
 .w {
   background-image: url(./images/tom1.png);
 }
